@@ -1,0 +1,7 @@
+Crawling google with keyword: madrasah aliyah ATH THOHIRIYYAH magetan  jl * 0351
+
+url: http://www.yellowpages.co.id/browse/letter/p?nameContains=&inCity=&inCategory=&hasWebsite=&hasEmail=&hasDisplayAd=&sortBy=name&totalHits=63349&page=2041
+content: Jl Aipda KS Tubun Gg Masjid 31 RT 003/05 Purwokerto  Pondok Pesantren At Thohiriyyah Jl KH  Pondok Pesantren Ath Thohiriyyah  (0351) 746556 &#194;&#356; 
+
+url: http://id.yellowpages.co.id/browse/letter/p?nameContains=&inCity=&inCategory=&hasWebsite=&hasEmail=&hasDisplayAd=&sortBy=name&totalHits=63347&page=2041&lang=id
+content: Pondok Pesantren At Thohiriyyah Jl KH Tohir 36 RT 001/05  Pondok Pesantren Ath Thohiriyyah Ds Blawirejo 4 Kedungpring  (0351) 746556 40819

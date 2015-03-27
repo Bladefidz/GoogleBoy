@@ -1,0 +1,16 @@
+Crawling google with keyword: Sekolah Menengah Atas 1 PARANG  jl * 0351
+
+url: http://panpages.co.id/locations/id232-magetan/listings?page=211
+content: 0351 439 806 JL Raya Lembayan - Gr Gareng, Lembayan Kulon, Lembayan, Magetan, 63372  Sekolah, SMA / Sekolah Menengah Atas 3  SMA N 1 Parang
+
+url: http://panpages.co.id/locations/id452-sarangan/listings?per_page=20
+content: Sma Negeri 1 Plaosan SARANGAN 0351 888 369 Pacalan, Plaosan, Sarangan, 63361 Sekolah, SMA / Sekolah Menengah Atas 2  JL Parang Poncol, Sarangan  Ronggowijoyo CV SARANGAN 0351 888 134 JL Raya Sarangan, No
+
+url: http://id.yellowpages.co.id/directory/sma-katholik-st-albertus/review
+content: Review: SMA Katholik St Albertus - Sekolah Menengah Umum - Jl Kurinci Malang  Jl Kurinci Malang Jawa Timur (0341) 556227 Kategori: Sekolah Menengah Umum  Jl Parang Argo 35  SMA Negeri 1 Sukomoro Jl  (0351) 891315
+
+url: http://www.yellowpages.co.id/directory/madrasah-tsanawiyah-muhammadiyah-3-1/review?l=en&lang=id
+content: Review: Madrasah Tsanawiyah Muhammadiyah 3 - Sekolah Menengah Pertama - Jl Melati Brondong 61153 Brondong
+
+url: http://seinen.s26.xrea.com/sunbbs/sunbbs.cgi?mode=form&no=45579&page=2
+content: Mar 9, 2015 - Air Jordan ShoesMen Nike Air JordanNike Air Jordan 1  saya baru sampai sekolah balik diri awak, Dah lama awak tunggu ke?  Majlis yang diadakan cukup sederhana atas permintaan pihak lelaki Saat itu  Sambil itu,&#8221; &#8220;Mereka kemalangan jalan raya selepas balik daripada makan malam di hotel
