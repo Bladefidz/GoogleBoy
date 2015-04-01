@@ -25,7 +25,7 @@ def parse_args():
 
 def scrapping_site_google(keyword):
     keyword_ = urllib.quote(keyword)
-    g_url = "http://www.google.com/search?q=%s&num=10&hl=en&start=0" % (keyword_)
+    g_url = "http://www.google.com/search?q=%s&num=10&hl=en&start=0&nord=1" % (keyword_)
     request = urllib2.Request(g_url)
     request.add_header('User-Agent', 'Mozilla/5.0 (X11; Linux x86_64; rv:35.0) Gecko/20100101 Firefox/35.0')
     open_url = urllib2.urlopen(request)
