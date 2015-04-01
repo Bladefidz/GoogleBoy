@@ -41,7 +41,7 @@ if __name__ == "__main__":
     args = parse_args()
 
     if not args.file:
-        sys.exit("[!] Please enter url with option -u: -u ")
+        sys.exit("[!] Please enter url with option -k: -K ")
     else:
         if args.recursive:
             recursivly(args)

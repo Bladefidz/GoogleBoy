@@ -67,7 +67,7 @@ def main():
     args = parse_args()
 
     if not args.keyword:
-        sys.exit("[!] Please enter url with option -u: -u ")
+        sys.exit("[!] Please enter url with option -k: -k ")
     else:
         if args.recursive:
             k = str(args.keyword).replace('\n', ' ')+str(args.recursive)

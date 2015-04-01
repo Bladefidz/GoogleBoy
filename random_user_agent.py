@@ -1,11 +1,11 @@
 import random
 import os
-import gettext
+
+'''
+    Inspired by w3af code pattern
+'''
 
 ROOT_PATH = os.path.dirname(os.path.realpath(__file__))
-
-# Translation stuff
-gettext.install('w3af', os.path.join(ROOT_PATH, 'locales'))
 
 UA_CACHE = []
 UA_FILE = os.path.join(ROOT_PATH, 'core', 'data', 'user_agent',
